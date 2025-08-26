@@ -1,0 +1,20 @@
+{
+    "provider": "https://bible-api.com/",
+    "verses": [
+        {
+            "book": "john",
+            "chapter": 1,
+            "verse": 1
+        },
+        {
+            "book": "romans",
+            "chapter": 12,
+            "verse": "1-2"
+        },
+        {
+            "book": "leviticus",
+            "chapter": 26,
+            "verse": 1
+        }
+    ]
+}
