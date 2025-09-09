@@ -9,12 +9,18 @@
         {
             "book": "romans",
             "chapter": 12,
-            "verse": "1-2"
+            "verse": "1-2",
+            "translation": "kjv"
         },
         {
             "book": "leviticus",
             "chapter": 26,
             "verse": 1
+        },
+        {
+            "book": "ephesians",
+            "chapter": 6,
+            "verse": 12
         }
     ]
 }
